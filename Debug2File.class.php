@@ -29,7 +29,7 @@ class Debug2File
 			fclose($fp);
 		}
 
-		// the content of 'data.txt' is now 123 and not 23!
+	
 
 	}
 
