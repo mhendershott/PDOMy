@@ -1,5 +1,5 @@
 PDOMy
 =====
 
-helper class for common PHP PDO tasks
+helper class for common PHP MySQL PDO tasks
 
